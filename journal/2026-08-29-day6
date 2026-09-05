@@ -1,4 +1,4 @@
-# Journal - {{DATE}} - {{TOPIC OR DAY N}}
+# Journal - 2026-08-29 - Day 6 of 14
 
 Use this version only if you want more structure. The basic `entry.md` is enough for most days.
 
@@ -25,15 +25,14 @@ Use this version only if you want more structure. The basic `entry.md` is enough
 - [ ] I wrote a commit
 - [ ] I pushed my changes
 
-
-
-## Evidence from today (optional)
-- 
-- 
+## Proof of life
+![Own Your Data, Own Your Health!](../assets/08-29-1.jpg)
+![Working Lunch with the team :>](../assets/08-29-2.jpg)
 
 ## Reflection 
 - What felt easy today? Since we had experiences before in utilizing github in projects and version controls
-- What felt difficult today?
-- What do I want to understand better next time?
+- What felt difficult today? Understanding where to shift the perspectives from OLTP to OLAP (vice versa) 
+- What do I want to understand better next time? Learn more how we can improve the utilization of GitHub to our projects and provide better engineered pipelines thru validations
 
 ## Mood of the day
+![Mood for Day 6](../assets/Data Engineering learning.gif)
